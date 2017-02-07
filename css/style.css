@@ -1,0 +1,374 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 5, 2016, 11:39:07 PM
+    Author     : cmg
+*/
+
+.center_h{
+    
+    
+    padding-top:110px;
+    padding-bottom:30px;
+ 
+}
+.div_center{
+    
+        padding-top:40px;
+    padding-bottom:30px;
+    
+}
+
+.div_center_buttone {
+    padding-top:30px;
+    padding-bottom:600px;
+    
+    
+}
+
+.backgroundimg{
+    
+  
+ 	background: url("../img/centruadmin2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    margin:0 auto;
+  
+}
+.imagbackground{
+ 
+     background: url("../img/admincenter.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    margin:0 auto;
+    
+   
+    
+}
+
+.containercolor{
+    
+ 
+  margin-top: 60px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 1;
+    margin-bottom:50px; 
+    padding-bottom:40px; 
+ 
+}
+
+
+
+
+.color_hc{
+    
+    font-weight:bold;
+    color: #F9FAFE;
+}
+.color_h {
+    
+    font-weight:bold;
+    color: #F9FAFE;
+}
+.color_r {
+    
+    font-weight:bold;
+    color: #286090;
+}
+.reparola{
+    
+  display: block;
+    
+}
+.color_r:hover
+{
+    
+color: #449D44;
+    
+}
+.adm_h{
+    
+    font-weight:bold; 
+    border: 2px sold;
+   margin-top: 17px;
+    font-size:22px; 
+
+}
+a {
+    text-decoration: none;
+    
+}
+.adm_h a:hover{
+       font-weight:bold; 
+       color:#65594A; 
+    text-decoration: none;
+    border: 2px sold;
+    text-shadow: 10px 10px 10px;
+   
+}
+.border{
+    
+    border: 2px sold;
+        padding: 10px 40px; 
+    background: #dddddd;
+  
+    border-radius: 25px;
+}
+
+.lunileanului{
+    
+    color:red;
+    font-weight:bold; 
+}
+
+.newnume{  
+   
+    border: 1px solid black;
+    opacity: 0.9;
+background-color: #ffffff;
+}
+#parola {
+    
+      border: 1px solid black;
+    opacity: 0.9;
+background-color: #ffffff;
+    
+}
+
+
+.newnume:hover{
+    color:brown;
+   font-weight: bold;
+    border: 1px solid black;
+    opacity: 0.9;
+background-color: #ffffff;
+}
+
+
+
+
+.searchc{
+    
+     color:brown;
+   font-weight: bold;
+   
+    opacity: 0.9;
+
+    
+    
+}
+
+.centrumedical {
+    
+    
+    color:#286090;
+    font-weight: bold;
+    font-size: 50px;
+}
+.paglpg{
+    
+    color:#286090;
+    font-weight: bold;
+    font-size: 20px;
+}
+.contin {
+    
+ 
+      background-color: #89C881;
+   font-weight: bold;
+    border: 1px solid black;
+    border-radius: 2%;
+    opacity: 0.9;
+    
+background-color: #ffffff;
+}
+.topform{
+    
+     
+    margin-top: 180px;
+ text-shadow: 10px 10px 10px;
+}
+
+
+.h_sisteminformatic {
+
+    font-weight:bold;
+    color:#65594A;
+  text-shadow: 10px 10px 10px;
+}
+
+
+.exit{
+   	background: url("../img/exit.png") no-repeat center fixed; 
+        width: auto 0 ;
+        height: auto 0 ;
+    
+    }
+    .adaugacauta{
+        
+        font-weight: bold;
+        background-image: url("../img/finduser.png");
+        width:50px;
+        height: 48px;
+        background-size:98%;
+        background-repeat: no-repeat;
+        border-radius:5px; 
+        margin-left:45px; 
+        
+    }    
+    
+    .pacintbackground{
+ 
+     background: url("../img/addpacinet2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    margin:0 auto;
+    
+   
+    
+}
+
+.adaugaborder{
+    
+ 
+  margin-top: 60px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 1;
+    margin-bottom:50px; 
+    padding-bottom:40px; 
+ 
+}
+.addpacient {
+    
+      font-weight:bold;
+    color:#65594A;
+  text-shadow: 10px 10px 10px;
+    
+}
+.back{
+    
+    margin-top: 40px;
+}
+.updatebackground{
+    
+     background: url("../img/update1.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+    
+    
+    
+}
+
+.deleteimage{
+    
+     background: url("../img/mobileimg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+    
+}
+.doctrbackground{
+    
+       background: url("../img/centrumedical.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+    
+}
+.restbackgound{
+    background: url("../img/admin2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+    
+    
+}
+.submitimg{
+    
+    
+background-image: url("../img/dropdown.png");
+background-position:  0px 0px;
+background-repeat: no-repeat;
+width: 24px;
+height: 24px;
+border: 0px;
+
+display: block;
+    
+}
+.newpanel:target{
+    
+   display: block; 
+    
+}
+
+.newsubmit{
+    
+    
+background-image: url("../img/dropdown.png");
+background-position:  0px 0px;
+background-repeat: no-repeat;
+width: 24px;
+height: 24px;
+border: 0px;
+display: block;
+    
+}
+
+.sepanel:target{
+    
+   display: none; 
+    
+}
+
+.raportbackground{
+       background: url("../img/backgroundraport.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+    
+    
+}
+th{
+    
+    text-align: center;
+    
+}
+td {
+    text-align: center;
+    
+}
+.graficimg{
+     background: url("../img/grafic.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+    
+    
+}
+
+
